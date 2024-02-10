@@ -1,0 +1,6 @@
+@CEPvia_HostAddress = http://localhost:5171
+
+GET {{CEPvia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
